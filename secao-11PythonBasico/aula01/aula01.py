@@ -4,3 +4,6 @@ print("hello world")
 '''
 print("teste")
 '''
+
+x=2
+print(x+x)
